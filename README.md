@@ -2,21 +2,23 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: tanuuei@gmail.com 
+&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/wei-tan-912097203/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://noneatthemoment.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+<img src="https://raw.githubusercontent.com/tanuuei/tan_wei_andrew/main/images/TW%20Sydney.jpg" 
+     width="250" 
+     height=auto />
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Tan Wei__, an amateur data scientist with <1 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
